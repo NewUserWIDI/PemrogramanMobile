@@ -16,7 +16,7 @@
 Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
 
 **Hasil Output:**
-![Output Soal 1](./img/soal1.jpeg)
+![Output Soal 1](./img/Output1.jpeg)
 
 ---
 
