@@ -39,16 +39,10 @@ Poin-poin penting dari materi codelab:
 ### Soal 4: Null Safety vs Late Variable
 
 **1. Contoh Eksekusi Null Safety:**
-![Code Null Safety](./Nullable.dart.jpeg)
-![Code Tanpa Null](./TanpaNull.dart)
 ![Output Null Safety](./img/OuputNullAble.jpeg)
-![Output Tanpa Null](./outputNull.jpeg)
 
 **2. Contoh Eksekusi Late Variable:**
-![Code Late Variable](./img/LateVariable.jpeg)
-![Code Tidak Diisi](./img/TidaDiisi.jpeg)
 ![Output Late](./img/OutputLate.jpeg)
-
 
 ---
 *Laporan ini disusun sesuai dengan format tugas Praktikum Pemrograman Mobile.*
