@@ -128,7 +128,7 @@ Variabel index tidak memiliki tipe data, penulisan nama variabel tidak konsisten
 
 Perbaikannya yaitu menambahkan tipe data pada index, mengganti penulisan 'Index' menjadi 'index', serta menambahkan ++ pada index di akhir baris 2.
 
-![Output Praktikum 3](img/Praktikum3_PerbiakanL1.jpeg)
+![Output Praktikum 3](img/Praktikum3_PerbaikanL1.jpeg)
 
 ### Langkah 3:
 
