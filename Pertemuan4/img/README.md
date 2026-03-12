@@ -37,7 +37,7 @@ print(list[1]);
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan!
 
-![Output Praktikum 1](img/tipeDatalist.png)
+![Output Praktikum 1](img/tipeDatalist.jpeg)
 
 Kode tersebut berhasil dijalankan, memperlihatkan proses membaca dan mengubah isi list di Dart, serta menggunakan assert untuk memastikan kondisi yang diinginkan benar pada saat eksekusi.
 
@@ -49,11 +49,11 @@ Apa yang terjadi? Jika terjadi error, silakan perbaiki.
 
 Codenya
 
-![Output Praktikum 1](img/tipeDatalist1.png)
+![Output Praktikum 1](img/tipeDatalist1.jpeg)
 
 Outputnya
 
-![Output Praktikum 1](img/tipeDatalistOutput.png)
+![Output Praktikum 1](img/tipeDatalistOutput.jpeg)
 
 ## Praktikum 2: Eksperimen Tipe Data Set
 
@@ -72,7 +72,7 @@ print(halogens);
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
-![Output Praktikum 2](img/tipeDataSet.png)
+![Output Praktikum 2](img/tipeDataSet.jpeg)
 
 Kode tersebut mendeklarasikan sebuah variabel bernama halogens yang bertipe Set karena menggunakan tanda kurung kurawal {} tanpa pasangan key-value ":", kemudian kode tersebut mencetak isi set ke konsol dan tidak terdapat error pada kode tersebut.
 
@@ -96,11 +96,11 @@ Dokumentasikan kode dan hasil di console, lalu buat laporannya.
 
 Codenya
 
-![Output Praktikum 2](img/tipeDataSet1.png)
+![Output Praktikum 2](img/tipeDataSet1.jpeg)
 
 Outputnya
 
-![Output Praktikum 2](img/tipeDataSetOutput.png)
+![Output Praktikum 2](img/tipeDataSetOutput.jpeg)
 
 ## Praktikum 3: Eksperimen Tipe Data Maps
 
@@ -132,7 +132,7 @@ print(nobleGases);
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
-![Output Praktikum 3](img/tipeDatamaps.png)
+![Output Praktikum 3](img/tipeDatamaps.jpeg)
 
 kode berhasil dijalankan dan mencetak isi Map gifts dan nobleGases ke layar tanpa error karena Dart mendukung Map dengan tipe data dinamis.
 
@@ -155,16 +155,16 @@ nobleGases[18] = 'argon';
 Apa yang terjadi? Jika terjadi error, silakan perbaiki.
 
 data fifth pada gifts yang awalnya '1' berubah jadi 'golden rings', dan data 18 pada nobleGases yang awalnya '2' berubah jadi 'argon' 
-![Output Praktikum 3](img/tipeDatamaps1.png)
+![Output Praktikum 3](img/tipeDatamaps1.jpeg)
 
 Tambahkan elemen nama dan NIM Anda pada tiap variabel di atas (`gifts`, `nobleGases`, `mhs1`, dan `mhs2`).
 Dokumentasikan hasilnya dan buat laporannya.
 
 Codenya
-![Output Praktikum 3](img/tipeDatamaps2.png)
+![Output Praktikum 3](img/tipeDatamaps2.jpeg)
 
 Outputnya
-![Output Praktikum 3](img/tipeDatamapsOutput.png)
+![Output Praktikum 3](img/tipeDatamapsOutput.jpeg)
 
 ## Praktikum 4: Eksperimen Tipe Data List: Spread dan Control-flow Operators
 
@@ -186,13 +186,13 @@ print(list2.length);
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
-![Output Praktikum 4](img/Spread_CFO.png)
+![Output Praktikum 4](img/Spread_CFO.jpeg)
 
 Terjadi error karena list 1 tidak ada, perbaikannya yaitu mengubah list1 menjadi list
-![Output Praktikum 4](img/Spread_CFO1.png)
+![Output Praktikum 4](img/Spread_CFO1.jpeg)
 
 dan outpunya yaitu
-![Output Praktikum 4](img/Spread_CFO_Output.png)
+![Output Praktikum 4](img/Spread_CFO_Output.jpeg)
 
 **Langkah 3:**
 
@@ -208,21 +208,21 @@ print(list3.length);
 Apa yang terjadi? Jika terjadi error, silakan perbaiki.
 
 Terjadi error karena belum ada deklarasi 'var' di awal list1
-![Output Praktikum 4](img/Spread_CFO2.png)
+![Output Praktikum 4](img/Spread_CFO2.jpeg)
 
 Perbaikannya yaitu dengan menambahakan var di list1
-![Output Praktikum 4](img/Spread_CFO3.png)
+![Output Praktikum 4](img/Spread_CFO3.jpeg)
 
 dan outputnya yaitu
-![Output Praktikum 4](img/Spread_CFO_Output1.png)
+![Output Praktikum 4](img/Spread_CFO_Output1.jpeg)
 
 Tambahkan variabel list berisi NIM Anda menggunakan Spread Operators. Dokumentasikan hasilnya dan buat laporannya.
 
 Codenya
-![Output Praktikum 4](img/Spread_CFO4.png)
+![Output Praktikum 4](img/Spread_CFO4.jpeg)
 
 Outputnya
-![Output Praktikum 4](img/Spread_CFO_Output2.png)
+![Output Praktikum 4](img/Spread_CFO_Output2.jpeg)
 
 **Langkah 4:**
 
@@ -236,16 +236,16 @@ print(nav);
 Apa yang terjadi? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika variabel `promoActive` ketika `true` dan `false`.
 
 Error karena var promoActive belum di deklarasikan
-![Output Praktikum 4](img/Spread_CFO5.png)
+![Output Praktikum 4](img/Spread_CFO5.jpeg)
 
 Solusinya mendeklarasikan var promoActive
-![Output Praktikum 4](img/Spread_CFO6.png)
+![Output Praktikum 4](img/Spread_CFO6.jpeg)
 
 Outpunya jika promoActive True
-![Output Praktikum 4](img/Spread_CFO_Output3.png)
+![Output Praktikum 4](img/Spread_CFO_Output3.jpeg)
 
 Outpunya jika promoActive False
-![Output Praktikum 4](img/Spread_CFO_Output4.png)
+![Output Praktikum 4](img/Spread_CFO_Output4.jpeg)
 
 **Langkah 5:**
 
@@ -259,19 +259,19 @@ print(nav2);
 Apa yang terjadi? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika variabel `login` mempunyai kondisi lain.
 
 Error karena var login belum di deklarasikan
-![Output Praktikum 4](img/Spread_CFO7.png)
+![Output Praktikum 4](img/Spread_CFO7.jpeg)
 
 Solusinya mendeklarasikan var Login dengan nilainya adalah manager
-![Output Praktikum 4](img/Spread_CFO8.png)
+![Output Praktikum 4](img/Spread_CFO8.jpeg)
 
 Outpunya jika Login nilainya manager
-![Output Praktikum 4](img/Spread_CFO_Output5.png)
+![Output Praktikum 4](img/Spread_CFO_Output5.jpeg)
 
 Code jika Login nilainya selain manager(user)
-![Output Praktikum 4](img/Spread_CFO9.png)
+![Output Praktikum 4](img/Spread_CFO9.jpeg)
 
 Outpunya jika Login nilainya selain manager(user)
-![Output Praktikum 4](img/Spread_CFO_Output6.png)
+![Output Praktikum 4](img/Spread_CFO_Output6.jpeg)
 
 **Langkah 6:**
 
@@ -287,7 +287,7 @@ print(listOfStrings);
 Apa yang terjadi? Jika terjadi error, silakan perbaiki. Jelaskan manfaat **Collection For** dan dokumentasikan hasilnya.
 
 Tidak terjadi error
-![Output Praktikum 4](img/Spread_CFO_output7.png)
+![Output Praktikum 4](img/Spread_CFO_Output7.jpeg)
 
 Collection For pada Dart memungkinkan penambahan elemen ke koleksi (list/set/map) secara langsung menggunakan perulangan di dalam deklarasi, sehingga kode lebih ringkas dan mudah dibaca dibandingkan menambah elemen list menggunakan loop di luar deklarasi
 
@@ -306,17 +306,17 @@ print(record)
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
-![Output Praktikum 5](img/tipeDatarecord.png)
+![Output Praktikum 5](img/tipeDatarecord.jpeg)
 
 Terjadi error karena pada code kurang menambahkan ";" pada akhir print(record)
 
 perbaikannya yaitu menambahkan ";" pada akhir print(record)
 
-![Output Praktikum 5](img/tipeDatarecord1.png)
+![Output Praktikum 5](img/tipeDatarecord1.jpeg)
 
 Outputnya
 
-![Output Praktikum 5](img/tipeDatarecordOutput.png)
+![Output Praktikum 5](img/tipeDatarecordOutput.jpeg)
 
 Program akan menampilkan seluruh isi record ke layar, yaitu 'first' dan 'last' sebagai data berurutan, serta a: 2 dan b: true sebagai data bernama.
 
@@ -333,13 +333,13 @@ Tambahkan kode program berikut di luar scope `void main()`, lalu coba eksekusi (
 Apa yang terjadi? Jika terjadi error, silakan perbaiki. Gunakan fungsi `tukar()` di dalam `main()` sehingga tampak jelas proses pertukaran value field di dalam Record.
 
 Tidak ada error, tetapi outpunya masih sama seperti no 2
-![Output Praktikum 5](img/tipeDatarecord2.png)
+![Output Praktikum 5](img/tipeDatarecord2.jpeg)
 
 Setelah menggunakan fungsi tukar dalam main, codenya begini
-![Output Praktikum 5](img/tipeDatarecord3.png)
+![Output Praktikum 5](img/tipeDatarecord3.jpeg)
 
 Outputnya
-![Output Praktikum 5](img/tipeDatarecordOutput1.png)
+![Output Praktikum 5](img/tipeDatarecordOutput1.jpeg)
 
 **Langkah 4:**
 
@@ -353,13 +353,13 @@ print(mahasiswa);
 Apa yang terjadi? Jika terjadi error, silakan perbaiki. Inisialisasi field nama dan NIM Anda pada variabel record `mahasiswa` di atas. Dokumentasikan hasilnya dan buat laporannya!
 
 Terjadi error karena data mahasiswa belum di isi
-![Output Praktikum 5](img/tipeDatarecord4.png)
+![Output Praktikum 5](img/tipeDatarecord4.jpeg)
 
 Kode setelah data mahasiswa di isi
-![Output Praktikum 5](img/tipeDatarecord5.png)
+![Output Praktikum 5](img/tipeDatarecord5.jpeg)
 
 Outputnya
-![Output Praktikum 5](img/tipeDatarecordOutput2.png)
+![Output Praktikum 5](img/tipeDatarecordOutput2.jpeg)
 
 **Langkah 5:**
 
@@ -375,13 +375,13 @@ print(mahasiswa2.$2); // Prints 'last'
 Apa yang terjadi jika terjadi error, silakan perbaiki. Gantilah salah satu isi record dengan nama dan NIM Anda, lalu dokumentasikan hasilnya dan buat laporannya!
 
 Tidak terjadi error, output sesuai dengan contoh
-![Output Praktikum 5](img/tipeDatarecord6.png)
+![Output Praktikum 5](img/tipeDatarecord6.jpeg)
 
 Kode setelah satu record di ganti nama dan nim
-![Output Praktikum 5](img/tipeDatarecord7.png)
+![Output Praktikum 5](img/tipeDatarecord7.jpeg)
 
 Outputnya
-![Output Praktikum 5](img/tipeDatarecordOutput3.png)
+![Output Praktikum 5](img/tipeDatarecord_Output3.jpeg)
 
 # Soal 2
 Jelaskan yang dimaksud Functions dalam bahasa Dart!
