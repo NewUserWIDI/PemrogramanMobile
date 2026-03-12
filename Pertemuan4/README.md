@@ -72,7 +72,7 @@ print(halogens);
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
-![Output Praktikum 2](img/tipeDataSet.jpeg)
+![Output Praktikum 2](img/tipeDataset.jpeg)
 
 Kode tersebut mendeklarasikan sebuah variabel bernama halogens yang bertipe Set karena menggunakan tanda kurung kurawal {} tanpa pasangan key-value ":", kemudian kode tersebut mencetak isi set ke konsol dan tidak terdapat error pada kode tersebut.
 
@@ -96,11 +96,11 @@ Dokumentasikan kode dan hasil di console, lalu buat laporannya.
 
 Codenya
 
-![Output Praktikum 2](img/tipeDataSet1.jpeg)
+![Output Praktikum 2](img/tipeDataset1.jpeg)
 
 Outputnya
 
-![Output Praktikum 2](img/tipeDataSetOutput.jpeg)
+![Output Praktikum 2](img/tipeDatasetOutput.jpeg)
 
 ## Praktikum 3: Eksperimen Tipe Data Maps
 
@@ -316,7 +316,7 @@ perbaikannya yaitu menambahkan ";" pada akhir print(record)
 
 Outputnya
 
-![Output Praktikum 5](img/tipeDatarecordOutput.jpeg)
+![Output Praktikum 5](img/tipeDatarecord_Output.jpeg)
 
 Program akan menampilkan seluruh isi record ke layar, yaitu 'first' dan 'last' sebagai data berurutan, serta a: 2 dan b: true sebagai data bernama.
 
@@ -339,7 +339,7 @@ Setelah menggunakan fungsi tukar dalam main, codenya begini
 ![Output Praktikum 5](img/tipeDatarecord3.jpeg)
 
 Outputnya
-![Output Praktikum 5](img/tipeDatarecordOutput1.jpeg)
+![Output Praktikum 5](img/tipeDatarecord_Output1.jpeg)
 
 **Langkah 4:**
 
@@ -359,7 +359,7 @@ Kode setelah data mahasiswa di isi
 ![Output Praktikum 5](img/tipeDatarecord5.jpeg)
 
 Outputnya
-![Output Praktikum 5](img/tipeDatarecordOutput2.jpeg)
+![Output Praktikum 5](img/tipeDatarecord_Output2.jpeg)
 
 **Langkah 5:**
 
@@ -387,7 +387,7 @@ Outputnya
 Jelaskan yang dimaksud Functions dalam bahasa Dart!
 
 Jawab:<br>
-Functions adalah blok kode mandiri yang dirancang untuk menjalankan tugas spesifik. Tujuannya adalah untuk meningkatkan reusability (kode bisa dipanggil berulang kali) dan modularitas program.
+Function pada Dart adalah sekumpulan kode yang dibuat untuk menjalankan tugas tertentu dan dapat dipanggil kembali kapan saja. Function bisa menerima parameter (input) dan dapat menghasilkan nilai kembali (return value) setelah dijalankan.
 
 # Soal 3
 Jelaskan jenis-jenis parameter di Functions beserta contoh sintaksnya!
@@ -428,7 +428,7 @@ void salam({String pesan = 'Pagiii'}) {
 Jelaskan maksud Functions sebagai first-class objects beserta contoh sintaknya!
 
 Jawab:<br>
-Artinya, function diperlakukan sama seperti tipe data lainnya: bisa disimpan dalam variabel, dijadikan argumen fungsi lain, atau dijadikan nilai balik (return value).
+First-class objects berarti function di Dart dapat diperlakukan seperti data biasa. Function dapat disimpan dalam variabel, dikirim sebagai parameter, atau dikembalikan oleh function lain.
 
 contoh
 ```dart
@@ -451,7 +451,7 @@ void main() {
 Apa itu Anonymous Functions? Jelaskan dan berikan contohnya!
 
 Jawab:<br>
-Anonymous Functions adalah function yang tidak memiliki nama. Biasanya digunakan untuk keperluan singkat, seperti pada parameter fungsi, callback, atau operasi koleksi.
+Anonymous function adalah fungsi tanpa nama yang biasanya digunakan untuk operasi singkat, misalnya pada callback atau perulangan dalam koleksi data.
 
 contoh
 ``` dart
