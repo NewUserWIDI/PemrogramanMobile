@@ -17,7 +17,7 @@ Menyusun elemen judul, lokasi, dan rating bintang menggunakan widget `Row` dan `
 
 ### Langkah 2: Implementasi Button Section
 Membuat baris tombol interaktif (Call, Route, Share) menggunakan fungsi pembantu agar kode lebih modular.
-- **Output**: ![Button Section](layout_flutte/images/output_prak2.jpeg)
+- **Output**: ![Button Section](layout_flutter/images/output_prak2.jpeg)
 
 ### Langkah 3: Implementasi Text Section
 Menambahkan deskripsi panjang mengenai objek wisata dengan pengaturan padding agar teks nyaman dibaca.
